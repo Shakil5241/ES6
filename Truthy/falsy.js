@@ -1,6 +1,6 @@
-var myvar = "s5";
+var myvar = "s";
 //falsy : 0,null,undifined, Nan
-//others all are truthy
+//others all are truth
 if(myvar){
     console.log("i am truthy");
 }
